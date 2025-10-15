@@ -62,4 +62,4 @@ The notebook automatically generates several plots to help you understand your s
     * Run the cells in sequence.
     * The final cell will start the interactive menu, allowing you to add and view your expenses. 
 
-## 📁 File Structure
+
